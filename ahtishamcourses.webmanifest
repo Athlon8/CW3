@@ -1,0 +1,14 @@
+{
+    "name": "Ahtisham's Classes",
+    "short_name": "Coursey",
+    "icons":[
+        {
+            "src": "images/athlon.png",
+            "sizes": "512x512",
+            "type": "images/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
